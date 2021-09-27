@@ -18,5 +18,8 @@ namespace GAMF.Models
         public virtual Student Student { get; set; }
         public virtual Course Course { get; set; }
 
+        public Grade Grade { get; set; }
+
+
     }
 }
