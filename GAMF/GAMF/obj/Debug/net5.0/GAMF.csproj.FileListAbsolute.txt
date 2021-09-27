@@ -45,3 +45,5 @@ S:\PanyikPéter SzerveroldaliAlk\gitclone\ServersideAppsCourseProj_01\GAMF\GAMF\
 S:\PanyikPéter SzerveroldaliAlk\gitclone\ServersideAppsCourseProj_01\GAMF\GAMF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 S:\PanyikPéter SzerveroldaliAlk\gitclone\ServersideAppsCourseProj_01\GAMF\GAMF\bin\Debug\net5.0\Npgsql.dll
 S:\PanyikPéter SzerveroldaliAlk\gitclone\ServersideAppsCourseProj_01\GAMF\GAMF\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+S:\PanyikPéter SzerveroldaliAlk\gitclone\ServersideAppsCourseProj_01\GAMF\GAMF\bin\Debug\net5.0\Humanizer.dll
+S:\PanyikPéter SzerveroldaliAlk\gitclone\ServersideAppsCourseProj_01\GAMF\GAMF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll

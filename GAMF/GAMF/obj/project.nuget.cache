@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "hXGb08Z5YGs86gJnRRVGdsF8LK+onY8gDPUzAg9JI0ynX7GSEEFDfXGc1lpXeD+/0GnXG+2AfowsA9tbk/cZWA==",
+  "dgSpecHash": "JmeXwsKRw6UBuZ8yXSxMmxXngpuz9WaEjLHKE0ts5m42UhVhzRVOuAfH1wXll9xWZHv24n0Z2L0jLjv4yiAx2w==",
   "success": true,
   "projectFilePath": "S:\\PanyikPéter SzerveroldaliAlk\\gitclone\\ServersideAppsCourseProj_01\\GAMF\\GAMF\\GAMF.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\4-111-15-Hallgato\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\4-111-15-Hallgato\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\4-111-15-Hallgato\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.10\\microsoft.entityframeworkcore.5.0.10.nupkg.sha512",
     "C:\\Users\\4-111-15-Hallgato\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.10\\microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512",
     "C:\\Users\\4-111-15-Hallgato\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.10\\microsoft.entityframeworkcore.analyzers.5.0.10.nupkg.sha512",
+    "C:\\Users\\4-111-15-Hallgato\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.10\\microsoft.entityframeworkcore.design.5.0.10.nupkg.sha512",
     "C:\\Users\\4-111-15-Hallgato\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.10\\microsoft.entityframeworkcore.relational.5.0.10.nupkg.sha512",
     "C:\\Users\\4-111-15-Hallgato\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\4-111-15-Hallgato\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
