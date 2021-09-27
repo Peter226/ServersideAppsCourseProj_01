@@ -42,3 +42,6 @@ S:\PanyikPéter SzerveroldaliAlk\gitclone\ServersideAppsCourseProj_01\GAMF\GAMF\
 S:\PanyikPéter SzerveroldaliAlk\gitclone\ServersideAppsCourseProj_01\GAMF\GAMF\obj\Debug\net5.0\ref\GAMF.dll
 S:\PanyikPéter SzerveroldaliAlk\gitclone\ServersideAppsCourseProj_01\GAMF\GAMF\obj\Debug\net5.0\GAMF.pdb
 S:\PanyikPéter SzerveroldaliAlk\gitclone\ServersideAppsCourseProj_01\GAMF\GAMF\obj\Debug\net5.0\GAMF.genruntimeconfig.cache
+S:\PanyikPéter SzerveroldaliAlk\gitclone\ServersideAppsCourseProj_01\GAMF\GAMF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+S:\PanyikPéter SzerveroldaliAlk\gitclone\ServersideAppsCourseProj_01\GAMF\GAMF\bin\Debug\net5.0\Npgsql.dll
+S:\PanyikPéter SzerveroldaliAlk\gitclone\ServersideAppsCourseProj_01\GAMF\GAMF\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
