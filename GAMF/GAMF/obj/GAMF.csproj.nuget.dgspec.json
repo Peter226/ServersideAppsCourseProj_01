@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\PanyikPéter SzerveroldaliAlk\\GAMF\\GAMF\\GAMF.csproj": {}
+    "S:\\PanyikPéter SzerveroldaliAlk\\gitclone\\ServersideAppsCourseProj_01\\GAMF\\GAMF\\GAMF.csproj": {}
   },
   "projects": {
-    "S:\\PanyikPéter SzerveroldaliAlk\\GAMF\\GAMF\\GAMF.csproj": {
+    "S:\\PanyikPéter SzerveroldaliAlk\\gitclone\\ServersideAppsCourseProj_01\\GAMF\\GAMF\\GAMF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\PanyikPéter SzerveroldaliAlk\\GAMF\\GAMF\\GAMF.csproj",
+        "projectUniqueName": "S:\\PanyikPéter SzerveroldaliAlk\\gitclone\\ServersideAppsCourseProj_01\\GAMF\\GAMF\\GAMF.csproj",
         "projectName": "GAMF",
-        "projectPath": "S:\\PanyikPéter SzerveroldaliAlk\\GAMF\\GAMF\\GAMF.csproj",
+        "projectPath": "S:\\PanyikPéter SzerveroldaliAlk\\gitclone\\ServersideAppsCourseProj_01\\GAMF\\GAMF\\GAMF.csproj",
         "packagesPath": "C:\\Users\\4-111-15-Hallgato\\.nuget\\packages\\",
-        "outputPath": "S:\\PanyikPéter SzerveroldaliAlk\\GAMF\\GAMF\\obj\\",
+        "outputPath": "S:\\PanyikPéter SzerveroldaliAlk\\gitclone\\ServersideAppsCourseProj_01\\GAMF\\GAMF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -44,22 +44,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.10, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.10, )"
-            },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
-              "target": "Package",
-              "version": "[5.0.10, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
